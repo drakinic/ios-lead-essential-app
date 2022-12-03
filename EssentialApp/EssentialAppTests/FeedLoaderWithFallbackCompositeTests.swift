@@ -1,5 +1,5 @@
 //
-//  FeedLoaderWithFallbackComposite.swift
+//  FeedLoaderWithFallbackCompositeTests.swift
 //  EssentialAppTests
 //
 //  Created by Dejan Rakinic on 3.12.22..
