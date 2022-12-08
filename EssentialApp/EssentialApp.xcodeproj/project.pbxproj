@@ -37,6 +37,7 @@
 		6CD44C24293D409F0021B443 /* FeedAcceptanceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CD44C23293D409F0021B443 /* FeedAcceptanceTests.swift */; };
 		6CD44C26293D53BF0021B443 /* HTTPClientStub.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CD44C25293D53BF0021B443 /* HTTPClientStub.swift */; };
 		6CD44C28293D549C0021B443 /* InMemoryFeedStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CD44C27293D549C0021B443 /* InMemoryFeedStore.swift */; };
+		6CE51669294288A800B6C439 /* CombineHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CE51668294288A800B6C439 /* CombineHelpers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -96,6 +97,7 @@
 		6CD44C23293D409F0021B443 /* FeedAcceptanceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedAcceptanceTests.swift; sourceTree = "<group>"; };
 		6CD44C25293D53BF0021B443 /* HTTPClientStub.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPClientStub.swift; sourceTree = "<group>"; };
 		6CD44C27293D549C0021B443 /* InMemoryFeedStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InMemoryFeedStore.swift; sourceTree = "<group>"; };
+		6CE51668294288A800B6C439 /* CombineHelpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombineHelpers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -168,6 +170,7 @@
 				6CD44C07293D31630021B443 /* FeedImageDataLoaderPresentationAdapter.swift */,
 				6CD44C08293D31630021B443 /* FeedLoaderPresentationAdapter.swift */,
 				6CD44C04293D31630021B443 /* FeedViewAdapter.swift */,
+				6CE51668294288A800B6C439 /* CombineHelpers.swift */,
 				6C4E83CF29381735009A61ED /* Assets.xcassets */,
 				6C4E83D129381735009A61ED /* LaunchScreen.storyboard */,
 				6C4E83D429381735009A61ED /* Info.plist */,
@@ -304,6 +307,7 @@
 				6CD44C0E293D31630021B443 /* FeedLoaderPresentationAdapter.swift in Sources */,
 				6CD44C0A293D31630021B443 /* FeedViewAdapter.swift in Sources */,
 				6CD44C0B293D31630021B443 /* FeedUIComposer.swift in Sources */,
+				6CE51669294288A800B6C439 /* CombineHelpers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
